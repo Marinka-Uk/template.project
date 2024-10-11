@@ -1,7 +1,7 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Втеча з Шоушенка - 2",
       "director": "Frank Darabont",
       "genres": [
@@ -10,7 +10,7 @@
       "rating": 8.5
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Хресний батько",
       "director": "Francis Ford Coppola",
       "genres": [
@@ -20,18 +20,7 @@
       "rating": 9.2
     },
     {
-      "id": 3,
-      "title": "Темний лицар",
-      "director": "Christopher Nolan",
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 9
-    },
-    {
-      "id": 4,
+      "id": "4",
       "title": "Список Шиндлера",
       "director": "Steven Spielberg",
       "genres": [
@@ -42,8 +31,8 @@
       "rating": 8.9
     },
     {
-      "id": 5,
-      "title": "Володар кілець: Повернення короля",
+      "id": "5",
+      "title": "Start",
       "director": "Peter Jackson",
       "genres": [
         "Action",
@@ -53,7 +42,7 @@
       "rating": 8.9
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Кримінальне чтиво",
       "director": "Quentin Tarantino",
       "genres": [
@@ -63,7 +52,7 @@
       "rating": 8.9
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Форрест Гамп",
       "director": "Robert Zemeckis",
       "genres": [
@@ -74,7 +63,7 @@
       "rating": 8.8
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Початок",
       "director": "Christopher Nolan",
       "genres": [
@@ -85,7 +74,7 @@
       "rating": 8.8
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Володар кілець: Братство персня",
       "director": "Peter Jackson",
       "genres": [
@@ -106,6 +95,303 @@
     },
     {
       "id": "d871",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "0f56",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "48ac",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "4e1c",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "ac66",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "22c4",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "0c82",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "fa6b",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "9ca7",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "0dcb",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "e0a6",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "31d3",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "61e6",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "b21e",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "9c35",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "113b",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "62ae",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "7ede",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "665b",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "898b",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "c795",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "3722",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "d5d5",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "7482",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "4f5d",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "b599",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "b85a",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "033b",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "96ca",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "c9ce",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "47a7",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "a1c7",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "42b2",
+      "title": "CSS",
+      "director": "CSS",
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8
+    },
+    {
+      "id": "c762",
       "title": "CSS",
       "director": "CSS",
       "genres": [
